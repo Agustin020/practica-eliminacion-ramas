@@ -1,1 +1,1 @@
-print('3er archivo como nuestra 3er estrella');
+print('3er archivo como nuestro 3er mundial');
